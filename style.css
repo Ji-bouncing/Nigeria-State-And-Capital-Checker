@@ -1,0 +1,16 @@
+h2,h3{
+    text-align:center;
+    text-transform: uppercase;
+}
+form{
+    text-align: center;
+}
+button{
+    font-size:17px;
+    display:block;
+    margin:5% auto;
+    padding:5px 15px;
+    background:darkred;
+    color: white;
+    font-weight:bold;
+}
